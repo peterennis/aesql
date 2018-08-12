@@ -1,5 +1,7 @@
 {
   "name": "aesql",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
